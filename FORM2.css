@@ -1,0 +1,24 @@
+.H{
+    text-align: center;
+    color: antiquewhite;
+}
+.H:hover{
+    color: black;
+    font-size: xx-large;
+}
+input[type=text]:focus{
+    outline: none;
+}
+input[type=text]:focus{
+    border-style: dashed;
+    border-color: darkcyan;
+}
+input[type=date]:focus{
+    outline: none;
+}
+input[type=date]:focus{
+    border-style: dotted;
+}
+label{
+    color:palegreen;
+}
